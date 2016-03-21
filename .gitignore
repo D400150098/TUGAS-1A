@@ -1,27 +1,32 @@
 (1)Raw Blame History
 # tugas-01-analog-basic-circuit
-menacri nilai resistivitas bahan metal
-Berdasarkan eksperimen yang dilakukan, Ohm merumuskan bahwa hambatan R kawat logam berbanding lurus de
-berbanding terbalik dengan luas penampang lintang kawat A, dan bergantung kepada jenis bahan tersebut.
+mencari nilai resistivitas bahan metal
+Berdasarkan eksperimen yang dilakukan, Ohm merumuskan bahwa hambatan R kawat logam berbanding lurus dengan berbanding terbalik dengan luas penampang lintang kawat A, dan bergantung kepada jenis bahan tersebut.
 R = ρl/A
 dengan:
 R = hambatan kawat penghantar (Ω)
 l = panjang kawat penghantar (m)
 A = luas 
+l
 penampang lintang penghantar (m2)
 ρ = hambatan jenis kawat penghantar (Ω.m)
 Konstanta pembanding ρ disebut hambatan jenis (resistivitas). Hambatan jenis kawat berbeda-beda tergan
  berarti kalau kita hendak mencari nilai resistivitas suatu bahan metal yaitu dengan menggunakan rumus
  dengan ρl = R/A maka kita dapat menetukan nilai resistivitas bahan metal yang kita inginkan.
-  METODE PERCOBAAN (dengan pengukuran)
-Pada percobaan hambatan jenis kawat ini diperlukan bahan dan peralatan seperti
+  
+  METODE PERCOBAAN (dengan
+  pengukuran)
+
+ Pada percobaan hambatan jenis kawat ini diperlukan bahan dan peralatan seperti
 1 rol kawat nikrom dan kawat tembaga, 6 buah kabel penghubung, 2 buah papan rangkaian,
 1 buah amperemeter, 1 buah volt meter, 1 buah micrometer sekrup, dan sebuah power supplay.
 Adapun rumusan hipotesis percobaan kali ini yaitu nilai hambatan jenis kawat (r) adalah tetap,
 dan tidak dipengaruhi oleh panjang kawat, diameter kawat, tegangan dan kuat arusnya, namun hal
 itu bergantung pada jenis kawat yang digunakan.
 ada percobaan kali ini menggunakan dua jenis kawat yaitu nikrom dan tembaga.
-Adapun identifikasi dan definisi operasional variabel pada percobaan ini yaitu
+
+  Adapun identifikasi dan definisi          operasional variabel pada percobaan ini yaitu
+
 Kegiatan I menggunakan kawat Nikrom, variabel manipulasi yang digunakan adalah
 panjang kawat (L) 44 cm, 28,5 cm, 14 cm. Variabel kontrolnya adalah jenis kawat (r),
 diameter kawat (d), amperemeter, voltmeter, sumber tegangan, dan luas penampang (A),
